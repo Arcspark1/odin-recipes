@@ -8,3 +8,5 @@ Please don't try to use any of these recipes as they were modified and will like
 result in a large mess in your kitchen and wasted money.
 
 recipes were sourced from "allrecipes.com" I don't claim ownership over anything presented
+
+webpage can be viewed at https://arcspark1.github.io/odin-recipes/
