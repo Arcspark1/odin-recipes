@@ -1,0 +1,27 @@
+.main-list{
+    background-color: aqua;
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 900;
+}
+
+h1 {
+    background-color: blueviolet;
+    font-size: 80px;
+    font-weight: 900;
+    text-align: center;
+    color: yellow;
+}
+
+img {
+    width: 500px;
+    height: 500px;
+}
+
+.ingred {
+    background-color: violet;
+    color: rgb(255, 187, 0);
+    font-size: 40px;
+    font-weight: 600;
+    text-shadow: rgba(255, 0, 0, 0.507);
+}
