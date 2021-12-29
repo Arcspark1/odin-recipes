@@ -25,3 +25,7 @@ img {
     font-weight: 600;
     text-shadow: rgba(255, 0, 0, 0.507);
 }
+
+.direc {
+    background-color: aqua;
+}
